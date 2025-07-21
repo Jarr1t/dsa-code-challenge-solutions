@@ -1,8 +1,8 @@
-# dsa-code-challenge-solutions
+# DSA Code Challenge Solutions
 
 # 🧠 NeetCode Solutions – Problem Solving by Topic & Difficulty
 
-This repository contains my personal solutions to coding challenges from [NeetCode](https://neetcode.io/), [LeetCode](https://leetcode.com/), and other platforms — organized by **data structure or algorithm topic**, then grouped by **difficulty level**.
+This repository contains my personal solutions and notes to coding challenges from [NeetCode](https://neetcode.io/), [LeetCode](https://leetcode.com/), and other platforms; organized by **data structure**, then grouped by **difficulty level**.
 
 My goal is to strengthen my data structures and algorithms skills, improve problem-solving efficiency, and stay consistent with daily practice.
 
