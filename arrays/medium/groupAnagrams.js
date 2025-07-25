@@ -1,7 +1,7 @@
 // Group Anagrams
 // https://neetcode.io/problems/anagram-groups?list=neetcode150
 // Difficulty: medium
-// Time: O(n), Space: O(n)
+// Time: O(n * k log k), Space: O(n * k)
 
 function groupAnagrams(strs) {
 
