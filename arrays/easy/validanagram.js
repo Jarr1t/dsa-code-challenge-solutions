@@ -1,4 +1,4 @@
-// 001. Valid Anagram
+// Valid Anagram
 // https://neetcode.io/problems/is-anagram?list=neetcode150
 // Difficulty: Easy
 // Time: O(n log n), Space: O(n)
