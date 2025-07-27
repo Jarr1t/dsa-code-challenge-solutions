@@ -1,4 +1,3 @@
-// 001. Two Sum
 // https://neetcode.io/problems/two-integer-sum?list=neetcode150
 // Difficulty: Easy
 // Time: O(n), Space: O(n)
