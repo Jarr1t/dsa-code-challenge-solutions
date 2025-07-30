@@ -3,7 +3,7 @@
 // Difficulty: medium
 // Time: O(n), Space: O(n)
 
-productExceptSelf(nums) {
+function productExceptSelf(nums) {
 
     const products = new Array(nums.length).fill(1)
 

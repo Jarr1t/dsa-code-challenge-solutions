@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Time: O(n log n), Space: O(n)
 
-isAnagram(s, t) {
+function isAnagram(s, t) {
 
 //sort the strings
 //compare if they equal eachother

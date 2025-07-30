@@ -3,7 +3,7 @@
 // Difficulty: Medium
 // Time: O(n * k), Space: O(m + k)
 
-topKFrequent(nums, k) {
+function topKFrequent(nums, k) {
 
     // use map, keys won't be strings
     // have an array for the most frequent

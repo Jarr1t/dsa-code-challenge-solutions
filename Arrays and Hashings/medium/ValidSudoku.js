@@ -3,7 +3,7 @@
 // Difficulty: medium
 // Time: O(1), Space: O(1)
 
-isValidSudoku(board) {
+function isValidSudoku(board) {
     // use set to find if any dupes in rows
 
     for(let row of board){
