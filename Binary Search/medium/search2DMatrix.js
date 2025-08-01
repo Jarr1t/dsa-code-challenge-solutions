@@ -10,7 +10,6 @@ function searchMatrix(matrix, target) {
         let row = Math.floor(mid / cols)
         let col = mid % cols
         let value = matrix[row][col]
-        console.log()
 
         if(value === target) return true
 
