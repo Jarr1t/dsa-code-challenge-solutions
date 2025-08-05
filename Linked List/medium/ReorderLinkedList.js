@@ -19,7 +19,7 @@ Output: [2,7,5]
 Time: O(n)
     Iterating through the list to find the middle, reverse the second half, and merge both halves
 Space: O(1)
-    All operations are done in-place using pointers; no extra space is used
+    All operations are done in-place using pointers, no extra space is used
 */
 
 function reorderList(head) {
